@@ -93,7 +93,7 @@ Bu proje [MIT](LICENSE) lisansı altında lisanslanmıştır.
 
 ## 📞 İletişim
 
-GitHub: [@kullaniciadi](https://github.com/enginakts)
+GitHub: [@enginakts](https://github.com/enginakts)
 
 ## ⭐ Projeyi Destekleyin
 
